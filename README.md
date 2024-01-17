@@ -1,1 +1,1 @@
-# US-College-Analysis
+# US Colleges Analysis
