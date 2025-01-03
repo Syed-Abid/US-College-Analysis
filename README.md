@@ -31,7 +31,7 @@ Welcome to the **US College Analysis** repository! This project was part of a fr
 ## 📊 Dashboards
 
 <div align="center">
-  <img src="" alt="EV Analysis Dashboard">
+  <img src="https://github.com/Syed-Abid/US-College-Analysis/blob/main/US%20Colleges%20Dashboard.png" alt="College Analysis Dashboard">
 </div>
 
 
