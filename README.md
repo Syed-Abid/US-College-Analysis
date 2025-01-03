@@ -28,10 +28,17 @@ Welcome to the **US College Analysis** repository! This project was part of a fr
 - Delivered an interactive report for stakeholders to explore the results.  
 
 
+## 📊 Dashboards
+
+<div align="center">
+  <img src="" alt="EV Analysis Dashboard">
+</div>
+
+
 ## 🌟 Insights Uncovered  
-- Regional variations in tuition fees and accreditation standards.  
-- Correlation between location and college accessibility.  
-- Trends in tuition costs across different college types.  
+-   
+-   
+-   
 
 
 ## 📬 Contact
